@@ -1,8 +1,8 @@
 # Revealing the organization of catalytic sequence-defined oligomers via combined molecular dynamics simulations and network analysis
 =Sinan Kardas, Mathieu Fossépré,* Vincent Lemaur, Antony E. Fernandes, Karine Glinel, Alain M. Jonas, and Mathieu Surin,* 
 
-# network-analysis-from-md
-italique
+__network-analysis-from-md__
+
 
 *1st step*
 1. Providing PDB files
